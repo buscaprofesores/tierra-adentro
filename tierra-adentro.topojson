@@ -1,0 +1,15 @@
+{ "type": "FeatureCollection",
+"features": [
+
+{"type": "Feature", 
+ "geometry": { 
+              "type": "Point", 
+              "coordinates": [286.9484771, -36.8276527]},
+              "properties": {"lugar": "Concepción", "temporada": "2012", "capitulo": "42", "online": "<a href=http://www.youtube.com/watch?v=AuqzLG-a8w8> Capitulo xx Temporada 2012 </a>"} },
+{"type": "Feature", 
+ "geometry": { 
+              "type": "Point", 
+              "coordinates": [289.3726427, -33.4283544]},
+              "properties": {"lugar": "Río Mapocho", "temporada": "2017", "capitulo": "75", "online": "<a href=http://www.youtube.com/watch?v=jaIRHLez1Jc> Capitulo xx Temporada 2017 </a>"} }
+  ]  
+}
